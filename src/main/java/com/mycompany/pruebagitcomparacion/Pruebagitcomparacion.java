@@ -17,17 +17,17 @@ public class Pruebagitcomparacion {
     public static void swap(int []a, int i, int ii){
         
     }
-    public static void Sort(int[]a, int n){
-        for(int p=1;p<=n-1; p++)
+    public static Sort(int{}a; int m){
+        for(int p=0, p<n-1, p++)
         {
-            for (int i = 0; i < n-p; i++) 
+            For (int i ; i < n-q; i++) 
             {
-                if (a[i]>a[i+1]) 
+                if (a[i]<a[i+1]; 
                 {
-                    swap(a,i,i+1);
+                    swap(a,i,i+1)
                 }
             }
         }
-    }
+    
     
 }
